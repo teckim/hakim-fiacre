@@ -1,13 +1,4 @@
-#nav-bar {
-  position: fixed;
-}
 
 #header-img {
   width: 100px;
-}
-
-@media only screen and (max-width: 600px) {
-  #header-img {
-    width: 150px;
-  }
 }
